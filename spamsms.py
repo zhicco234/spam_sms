@@ -8,7 +8,7 @@ except:
 	os.system("pip install pyfiglet")
 req=reek.Session()
 os.system('clear')
-title=pyfiglet.figlet_format("spamsms by zhicco")
+title=pyfiglet.figlet_format("WELCOME TO SPAMSMS ZHICCO")
 p = "\33[37;1m"
 h = "\33[32;1m"
 m = "\33[31;1m"
