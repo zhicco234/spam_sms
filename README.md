@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/9FxKh6TS/png-clipart-anonymous-logo-security-hacker-graphics-anonymous-white-logo-removebg-preview.png" alt="SELF" width="300" />
 </p>
-<img src="https://i.postimg.cc/RhqHp6xX/Screenshot-4.png" alt="SELF" width="300" />
+<img src="https://i.postimg.cc/RhqHp6xX/Screenshot-4.png" alt="SELF" width="500" />
 </p>
 <p align="center">
 <a href="https://github.com/zhicco234"><img title="Author" src="https://img.shields.io/badge/AUTHOR-zhicco-orange.svg?style=for-the-badge&logo=github"></a>
