@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/9FxKh6TS/png-clipart-anonymous-logo-security-hacker-graphics-anonymous-white-logo-removebg-preview.png" alt="SELF" width="300" />
 </p>
 <p align="center">
-<a href="https://github.com/zhicco442"><img title="Author" src="https://img.shields.io/badge/AUTHOR-zhicco-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zhicco234"><img title="Author" src="https://img.shields.io/badge/AUTHOR-zhicco-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zhicco442/wabotzhicco/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
@@ -27,7 +27,7 @@
 >pkg install python
 > git clone https://github.com/zhicco234/spam_sms
 > cd spam_sms
-> python spam_sms.py
+> python spamsms.py
 ``````
 
 #### Author / Creator : [`Zhicco234`](https://GitHub.com/zhicco234)
